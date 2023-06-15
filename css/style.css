@@ -36,6 +36,9 @@ body{
     height: 150px;
     border-radius: 50%;
 }
+.skill-container{
+     background-color:rgba(41, 43, 44, 0.856)
+}
 .card-design{
     background-color:#0F0F0F;
     color: white;
